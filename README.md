@@ -37,3 +37,6 @@ During the exploratory data analysis, we examined the distribution of the age co
 The age feature exhibits a normal distribution, which aligns with our assumption of normality. This finding indicates that the age variable can be utilized as a reliable predictor in our analysis and modeling tasks.
 
 By confirming the normality assumption for the age feature, we can proceed with further analysis and modeling with confidence in the integrity of this particular attribute.
+
+![Age Distribution](pictures/AGE_IMAGE.png)
+
