@@ -30,7 +30,7 @@ The dataset used for bank churn prediction contains the following features:
 
 These features provide valuable insights into the characteristics and behaviors of customers that may contribute to churn. Analyzing these features and building predictive models can help in understanding the factors that influence customer attrition and enable banks to take proactive measures for customer retention.
 
-Exploratory Data Analysis
+## Exploratory Data Analysis
 
 During the exploratory data analysis, we examined the distribution of the age column using box plots and bar histograms. The analysis revealed the presence of two outliers in the age data. However, considering the small number of outliers and the fact that the age distribution follows a relatively normal pattern, it is reasonable to proceed with the dataset without removing these outliers.
 
