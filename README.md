@@ -38,5 +38,5 @@ The age feature exhibits a normal distribution, which aligns with our assumption
 
 By confirming the normality assumption for the age feature, we can proceed with further analysis and modeling with confidence in the integrity of this particular attribute.
 
-![Age Distribution](pictures/AGE_IMAGE.png)
+![Age Distribution](Pictures/Age_IMAGE.PNG)
 
